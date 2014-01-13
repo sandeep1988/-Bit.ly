@@ -1,0 +1,3 @@
+== RichOnRails Bitly Example
+
+See http://richonrails.com/articles/shortening-urls-with-bit-ly for details.
